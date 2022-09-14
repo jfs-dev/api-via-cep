@@ -8,7 +8,7 @@ Consumir API Via CEP usando HttpClient em C#
 Este projeto mostra como consumir a API Via CEP (https://viacep.com.br/) usando HttpClient em C#.
 
 ## Referências
-https://docs.microsoft.com/pt-br/dotnet/api/system.net.http.httpclient?view=net-6.0
+https://docs.microsoft.com/pt-br/dotnet/api/system.net.http.httpclient?view=net-6.0/
 
 ## Licença
 GPL-3.0 license
